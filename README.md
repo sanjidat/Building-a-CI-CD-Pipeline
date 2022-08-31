@@ -8,3 +8,6 @@ https://trello.com/invite/b/B4AYDcB7/3ce49926f830b0729df4f8a785888944/building-a
 
 •	A link to a spreadsheet that includes the original and final project plan
 https://docs.google.com/spreadsheets/d/1H3sP9IoXakEOkfpejzhj_wSk_M5urcBSkDJ1CAvIIeg/edit?usp=sharing
+
+# Instructions
+![](azure app service.PNG)
