@@ -37,6 +37,10 @@ Configuring GitHub Actions is a necessary step to perform Continuous Integration
 
 <img src="images/github action pass.PNG" alt="" width="700" height="300" style="border:5px solid black">
 
+
+[![Python application test with Github Actions](https://github.com/sanjidat/Building-a-CI-CD-Pipeline/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/sanjidat/Building-a-CI-CD-Pipeline/actions/workflows/pythonapp.yml)
+
+
 # Continuous Delivery on Azure:
 This is the final step which involves setting up azure pipelines to deploy the Flask starter code to Azure App Service. 
 
